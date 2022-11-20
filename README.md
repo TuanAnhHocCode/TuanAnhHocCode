@@ -1,16 +1,13 @@
-### Hi there 👋
+<div id="header">
+  <img src="https://media3.giphy.com/media/HMpcgxAZs5YYHsbe8P/200w.webpcid=ecf05e47be412ehqw99j0pmbwq04xwc3tpw3c0qxpros9szv&rid=200w.webp&ct=g"/>
+</div>
+<div id="badges">
+</div>
+<div id="banner">
+  
+</div>
 
-<!--
-**TuanAnhHocCode/TuanAnhHocCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="content">
+  
+ </div>
